@@ -998,12 +998,6 @@ int main()
 	user.board_setting();
 	cout<<"  ******   PROJECT  ****** \n"<<endl;
 	cout<<"   ******  CHESS  ******\n"<<endl;
-	cout<<"project member:"<<endl;
-	cout<<"Sundar gelal"<<endl;
-	cout<<"Jeevan ayer"<<endl;
-	cout<<"Abhinash kumar jha"<<endl;
-	cout<<"Pankaj kumar sah"<<endl;
-	cout<<"Nabin kumar poudel"<<endl;
 	cout<<"Rajesh kumar mahato\n"<<endl;
 	cout<<"***************************************************************************************************"<<endl<<endl;
 	cout<<"GAME INFORMATION \n \n";
